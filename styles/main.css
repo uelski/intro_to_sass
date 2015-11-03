@@ -3,19 +3,24 @@ body {
 
 h1 {
   font-size: 3rem;
-  margin: 5px; }
+  margin: 5px;
+  font-family: "Lora", serif; }
 
 p {
-  font-size: 1rem; }
+  font-size: 1rem;
+  font-family: "Lora", serif; }
 
 nav li {
-  font-size: 1.25rem; }
+  font-size: 1.25rem;
+  font-family: "Lora", serif; }
 
 h2 {
   font-size: 1.5rem;
-  margin: 5px; }
+  margin: 5px;
+  font-family: "Lora", serif; }
 
 figcaption {
-  font-size: 0.75rem; }
+  font-size: 0.75rem;
+  font-family: "Lora", serif; }
 
 /*# sourceMappingURL=main.css.map */

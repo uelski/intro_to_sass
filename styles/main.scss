@@ -9,24 +9,35 @@ $byline: 0.75rem; // 75%
 // margin sizes for headlines
 $headline-margin: 5px;
 
+// font variables
+
+$sans-serif: 'Roboto', sans-serif;;
+$serif: 'Lora', serif;
+
+
 body {
   font-size: 16px;
 }
 h1 {
   font-size: $headline-text;
   margin: $headline-margin;
+  font-family: $serif;
 }
 p {
   font-size: $body-text;
+  font-family: $serif;
 }
 
 nav li {
   font-size: $nav-item;
+  font-family: $serif;
 }
 h2 {
   font-size: $sub-header;
   margin: $headline-margin;
+  font-family: $serif;
 }
 figcaption {
   font-size: $byline;
+  font-family: $serif;
 }
